@@ -1,0 +1,7 @@
+Lara01 = project in local
+1. git init
+2. git add .
+3.git status
+4. git commit -a -m "The Commit message"
+5. git pull --rebase origin master
+6. git push origin master
