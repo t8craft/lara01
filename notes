@@ -8,3 +8,5 @@ Instructions https://www.datacamp.com/community/tutorials/git-push-pull
 4. git commit -a -m "The Commit message"
 5. git pull --rebase origin master
 6. git push origin master
+
+I can make lots of money
